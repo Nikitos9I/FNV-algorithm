@@ -9,6 +9,6 @@ To run the program
 
 Program will recursively bypass the transferred directory and calculate the hash from each file using FNV algorithm
 
-> Input file have to consist of names of directories/files
-
-> Output file will consist of hash of current file and path to this file
+> **Input file** have to consist of names of directories/files
+>
+> **Output file** will consist of hash of current file and path to this file
